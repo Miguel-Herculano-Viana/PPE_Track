@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <h1>Login Page Here</h1>
+        <p>Conteúdo da página sobre.</p>
+    </div>
+</template>
+
+<script>
+export default{
+name: 'Login'
+}
+</script>
