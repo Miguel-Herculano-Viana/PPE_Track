@@ -7,6 +7,6 @@
 
 <script>
 export default{
-name: 'Land'
+name: 'Landing'
 }
 </script>

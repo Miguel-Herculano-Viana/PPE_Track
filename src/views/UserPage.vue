@@ -7,6 +7,6 @@
 
 <script>
 export default{
-name: 'Userpg'
+name: 'UserPage'
 }
 </script>
